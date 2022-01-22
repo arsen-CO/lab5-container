@@ -1,0 +1,32 @@
+La generacion de todos los posibles 13-mers en Python ha llevado:
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	10m27,212s
+user	10m19,486s
+sys	0m0,022s
+La generacion de todos los posibles 14-mers en Python ha llevado:
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	42m57,745s
+user	42m26,081s
+sys	0m0,041s
+La generacion de todos los posibles 13-mers en C++ ha llevado: 
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	0m3,969s
+user	0m3,930s
+sys	0m0,007s
+La generacion de todos los posibles 14-mers en C++ ha llevado: 
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	0m15,871s
+user	0m15,734s
+sys	0m0,007s
