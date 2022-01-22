@@ -20,4 +20,4 @@ echo "La version del compilador de C++ que tenemos instalada:"
 g++ --version | head -n 1
 echo "-------------------------------------------------------------------"
 echo "El tiempo de ejecucion del 13-mers compilado en C++ es :"
-time ./data/k-mer13>/dev/null
+time ./k-mer13>/dev/null
