@@ -21,3 +21,36 @@ La generacion de todos los posibles 14-mers en C++ ha llevado:
 real	0m15,871s
 user	0m15,734s
 sys	0m0,007s
+
+
+#####################################################################
+#####        Evaluacion usando imagen de Singualirity       #########              
+#####################################################################
+
+--------------------------
+La generacion de todos los posibles 13-mers en Python ha llevado:
+
+real	8m32,564s
+user	8m25,770s
+sys	0m0,670s
+
+-------------------------------------------
+La generacion de todos los posibles 14-mers en Python ha llevado:
+
+real	33m9,053s
+user	32m44,737s
+sys	0m0,698s
+
+-------------------------------------------
+La generacion de todos los posibles 13-mers en C++ ha llevado: 
+
+real	0m4,840s
+user	0m4,366s
+sys	0m0,470s
+
+-------------------------------------------
+La generacion de todos los posibles 14-mers en C++ ha llevado: 
+
+real	0m16,741s
+user	0m16,175s
+sys	0m0,478s
