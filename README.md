@@ -1,1 +1,1 @@
-eEste repositorio es para el lab5 de HPC
+Este repositorio es para el lab5 de HPC
